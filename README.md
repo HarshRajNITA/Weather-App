@@ -1,10 +1,10 @@
 # Weather App ☀️🌧️
 
-Welcome to the **Weather App**! This application allows users to check the current weather conditions for any city around the world in real-time. It provides essential weather data like temperature, humidity, and weather descriptions using data fetched from a weather API.
+Welcome to the **Weather App**! This application allows users to check the current weather conditions for any city around the world in real-time. It provides essential weather data like temperature, humidity, and wind speed using data fetched from a weather API.
 
 ## Features
 - 🌍 **Search by City**: Enter any city name to get the latest weather updates.
-- 🌡️ **Real-Time Temperature**: Displays the current temperature in Celsius or Fahrenheit.
+- 🌡️ **Real-Time Temperature**: Displays the current temperature in Celsius.
 - 🌧️ **Weather Conditions**: Shows the weather images. (e.g., sunny, cloudy, rainy).
 - 💧 **Humidity Levels**: Provides real-time humidity data for the selected location.
 - 💨 **Wind Speed**: Shows the current wind speed.
