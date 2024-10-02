@@ -23,7 +23,7 @@ Welcome to the **Weather App**! This application allows users to check the curre
 
      <br>
 
-# 📌 **Live Site URL:** <a href="https://discord-clone-by-harsh.netlify.app/">**Click Here** 🚀</a>
+# 📌 **Live Site URL:** <a href="https://weather-app-byharsh.netlify.app/">**Click Here** 🚀</a>
 
 <br>
 
